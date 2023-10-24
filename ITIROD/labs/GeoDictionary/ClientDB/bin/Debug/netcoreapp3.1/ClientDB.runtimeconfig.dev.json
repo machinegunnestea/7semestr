@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\igrea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\igrea\\.nuget\\packages"
+    ]
+  }
+}

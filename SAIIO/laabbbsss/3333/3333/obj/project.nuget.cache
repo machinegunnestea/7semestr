@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "OcwMjh89dTXD4qRCvehSaDr5lsg4OWGSLUnmmMFwPPLgCrSKV/mexcrGWMmPzTmXZUgOeXSMERvmF6c/rJAVWQ==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\7sem\\SAIIO\\laabbbsss\\3333\\3333\\3333.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igrea\\.nuget\\packages\\google.ortools\\9.7.2996\\google.ortools.9.7.2996.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.7.2996\\google.ortools.runtime.linux-arm64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.7.2996\\google.ortools.runtime.linux-x64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.7.2996\\google.ortools.runtime.osx-arm64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.7.2996\\google.ortools.runtime.osx-x64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.7.2996\\google.ortools.runtime.win-x64.9.7.2996.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\google.protobuf\\3.23.3\\google.protobuf.3.23.3.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Google.OrTools 9.7.2996' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Google.OrTools",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

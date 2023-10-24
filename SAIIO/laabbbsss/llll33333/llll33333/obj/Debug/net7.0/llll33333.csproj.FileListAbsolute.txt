@@ -1,0 +1,17 @@
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\bin\Debug\net7.0\llll33333.exe
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\bin\Debug\net7.0\llll33333.deps.json
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\bin\Debug\net7.0\llll33333.runtimeconfig.json
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\bin\Debug\net7.0\llll33333.dll
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\bin\Debug\net7.0\llll33333.pdb
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\bin\Debug\net7.0\Microsoft.Solver.Foundation.dll
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.csproj.AssemblyReference.cache
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.AssemblyInfoInputs.cache
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.AssemblyInfo.cs
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.csproj.CoreCompileInputs.cache
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.csproj.CopyComplete
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.dll
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\refint\llll33333.dll
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.pdb
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\llll33333.genruntimeconfig.cache
+D:\uni\7sem\SAIIO\laabbbsss\llll33333\llll33333\obj\Debug\net7.0\ref\llll33333.dll

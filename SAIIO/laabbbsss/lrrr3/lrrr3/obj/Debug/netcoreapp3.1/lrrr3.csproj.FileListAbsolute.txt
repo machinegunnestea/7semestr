@@ -1,0 +1,16 @@
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\bin\Debug\netcoreapp3.1\lrrr3.exe
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\bin\Debug\netcoreapp3.1\lrrr3.deps.json
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\bin\Debug\netcoreapp3.1\lrrr3.runtimeconfig.json
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\bin\Debug\netcoreapp3.1\lrrr3.runtimeconfig.dev.json
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\bin\Debug\netcoreapp3.1\lrrr3.dll
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\bin\Debug\netcoreapp3.1\lrrr3.pdb
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\bin\Debug\netcoreapp3.1\Microsoft.Solver.Foundation.dll
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.csproj.AssemblyReference.cache
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.AssemblyInfoInputs.cache
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.AssemblyInfo.cs
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.csproj.CoreCompileInputs.cache
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.csproj.CopyComplete
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.dll
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.pdb
+D:\uni\7sem\SAIIO\laabbbsss\lrrr3\lrrr3\obj\Debug\netcoreapp3.1\lrrr3.genruntimeconfig.cache

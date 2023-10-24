@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBdVp9UFru/Wnc9Dn2Xt6U64kg7UKhMNMbgodlWX70Sp3giKQCANiIKh7VfVTkuxWpepWVBXP4GRXD4XkMwItQ==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\Serverr\\Serverr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igrea\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

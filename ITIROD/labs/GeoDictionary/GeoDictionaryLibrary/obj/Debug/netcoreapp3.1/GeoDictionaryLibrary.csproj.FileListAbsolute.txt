@@ -1,0 +1,10 @@
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\bin\Debug\netcoreapp3.1\GeoDictionaryLibrary.deps.json
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\bin\Debug\netcoreapp3.1\GeoDictionaryLibrary.dll
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\bin\Debug\netcoreapp3.1\GeoDictionaryLibrary.pdb
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\obj\Debug\netcoreapp3.1\GeoDictionaryLibrary.csproj.AssemblyReference.cache
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\obj\Debug\netcoreapp3.1\GeoDictionaryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\obj\Debug\netcoreapp3.1\GeoDictionaryLibrary.AssemblyInfoInputs.cache
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\obj\Debug\netcoreapp3.1\GeoDictionaryLibrary.AssemblyInfo.cs
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\obj\Debug\netcoreapp3.1\GeoDictionaryLibrary.csproj.CoreCompileInputs.cache
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\obj\Debug\netcoreapp3.1\GeoDictionaryLibrary.dll
+D:\uni\7sem\ITIROD\labs\GeoDictionary\GeoDictionaryLibrary\obj\Debug\netcoreapp3.1\GeoDictionaryLibrary.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoDictionaryServer", "GeoDictionaryServer\GeoDictionaryServer.csproj", "{AA0814AC-CA36-4A8A-BCE0-212CFB4379E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csproj", "{1CDB2BB8-25EC-4A32-8B5C-9F64B5BA68FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoDictionaryLibrary", "GeoDictionaryLibrary\GeoDictionaryLibrary.csproj", "{72EB24E7-3A70-4B3A-B2BF-41BA229FDE94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientDB", "ClientDB\ClientDB.csproj", "{6ED06DBC-A18F-42F4-9E65-A18D8397DD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA0814AC-CA36-4A8A-BCE0-212CFB4379E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0814AC-CA36-4A8A-BCE0-212CFB4379E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0814AC-CA36-4A8A-BCE0-212CFB4379E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0814AC-CA36-4A8A-BCE0-212CFB4379E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CDB2BB8-25EC-4A32-8B5C-9F64B5BA68FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CDB2BB8-25EC-4A32-8B5C-9F64B5BA68FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CDB2BB8-25EC-4A32-8B5C-9F64B5BA68FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CDB2BB8-25EC-4A32-8B5C-9F64B5BA68FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72EB24E7-3A70-4B3A-B2BF-41BA229FDE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EB24E7-3A70-4B3A-B2BF-41BA229FDE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EB24E7-3A70-4B3A-B2BF-41BA229FDE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EB24E7-3A70-4B3A-B2BF-41BA229FDE94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ED06DBC-A18F-42F4-9E65-A18D8397DD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED06DBC-A18F-42F4-9E65-A18D8397DD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED06DBC-A18F-42F4-9E65-A18D8397DD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED06DBC-A18F-42F4-9E65-A18D8397DD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {382FDA6C-EA87-41F1-A79F-39758B0978FE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\uni\7sem\ITIROD\labs\ClientServerTcpApp\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

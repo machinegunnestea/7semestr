@@ -1,0 +1,1 @@
+[{"Country":"qwe","Square":12.0,"Population":12.0,"Continent":"wqeq","Capital":"qwe3"}]

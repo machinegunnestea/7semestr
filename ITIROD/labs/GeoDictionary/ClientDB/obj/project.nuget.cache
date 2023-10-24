@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBD0UJ5j7zW/Ys2ZMjTwq513yvmeKBpNOwpUrwV8fVQcjjvUCB3qVFz/pyqpz7zaCGuLEyJoeEvGjfOgaYO3hQ==",
+  "success": true,
+  "projectFilePath": "D:\\uni\\7sem\\ITIROD\\labs\\GeoDictionary\\ClientDB\\ClientDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igrea\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.12\\microsoft.data.sqlite.core.7.0.12.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\igrea\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

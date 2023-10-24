@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\ClientServerTcpApp\\ClientServerTcpApp.csproj": {}
+  },
+  "projects": {
+    "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\ClientServerTcpApp\\ClientServerTcpApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\ClientServerTcpApp\\ClientServerTcpApp.csproj",
+        "projectName": "ClientServerTcpApp",
+        "projectPath": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\ClientServerTcpApp\\ClientServerTcpApp.csproj",
+        "packagesPath": "C:\\Users\\igrea\\.nuget\\packages\\",
+        "outputPath": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\ClientServerTcpApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\igrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\igrea\\.nuget\\packages\\",
+        "outputPath": "D:\\uni\\7sem\\ITIROD\\labs\\ClientServerTcpApp\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\igrea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
