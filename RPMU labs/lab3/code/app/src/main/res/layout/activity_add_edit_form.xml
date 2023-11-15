@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <AutoCompleteTextView
+        android:id="@+id/upcAutoComplete"
+        android:layout_width="195dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="76dp"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameAutoComplete"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <AutoCompleteTextView
+        android:id="@+id/nameAutoComplete"
+        android:layout_width="195dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginEnd="76dp"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <TextView
+        android:id="@+id/upcLabelForAutoComplete"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:labelFor="@id/upcAutoComplete"
+        android:text="@string/universal_product_code"
+        app:layout_constraintEnd_toStartOf="@+id/upcAutoComplete"
+        app:layout_constraintTop_toBottomOf="@+id/nameLabelForAutoComplete" />
+
+    <TextView
+        android:id="@+id/nameLabelForAutoComplete"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:labelFor="@id/nameAutoComplete"
+        android:text="@string/name"
+        app:layout_constraintEnd_toStartOf="@+id/nameAutoComplete"
+        app:layout_constraintTop_toTopOf="@+id/nameAutoComplete" />
+
+    <AutoCompleteTextView
+        android:id="@+id/expirationDateAutoComplete"
+        android:layout_width="195dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="76dp"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/priceAutoComplete"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <AutoCompleteTextView
+        android:id="@+id/priceAutoComplete"
+        android:layout_width="195dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="76dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/producerAutoComplete"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <AutoCompleteTextView
+        android:id="@+id/producerAutoComplete"
+        android:layout_width="195dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="76dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/upcAutoComplete"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <AutoCompleteTextView
+        android:id="@+id/countAutoComplete"
+        android:layout_width="195dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="76dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/expirationDateAutoComplete"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <TextView
+        android:id="@+id/priceLabelForAutoComplete"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="194dp"
+        android:gravity="center"
+        android:labelFor="@id/priceAutoComplete"
+        android:text="@string/price"
+        app:layout_constraintEnd_toEndOf="@+id/priceAutoComplete"
+        app:layout_constraintTop_toBottomOf="@+id/producerLabelForAutoComplete" />
+
+    <TextView
+        android:id="@+id/producerLabelForAutoComplete"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:labelFor="@id/producerAutoComplete"
+        android:text="@string/producer"
+        app:layout_constraintEnd_toStartOf="@+id/producerAutoComplete"
+        app:layout_constraintTop_toBottomOf="@+id/upcLabelForAutoComplete" />
+
+    <TextView
+        android:id="@+id/countLabelForAutoComplete"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="194dp"
+        android:gravity="center"
+        android:labelFor="@id/countAutoComplete"
+        android:text="@string/count"
+        app:layout_constraintEnd_toEndOf="@+id/countAutoComplete"
+        app:layout_constraintTop_toBottomOf="@+id/expirationDateLabelForAutoComplete" />
+
+    <TextView
+        android:id="@+id/expirationDateLabelForAutoComplete"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:layout_marginEnd="194dp"
+        android:gravity="center"
+        android:labelFor="@id/expirationDateAutoComplete"
+        android:text="@string/expiration_date"
+        app:layout_constraintEnd_toEndOf="@+id/expirationDateAutoComplete"
+        app:layout_constraintTop_toBottomOf="@+id/priceLabelForAutoComplete" />
+
+    <Button
+        android:id="@+id/addEditButton"
+        android:layout_width="100dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="141dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="176dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/countAutoComplete"
+        tools:ignore="SpeakableTextPresentCheck" />
+</androidx.constraintlayout.widget.ConstraintLayout>

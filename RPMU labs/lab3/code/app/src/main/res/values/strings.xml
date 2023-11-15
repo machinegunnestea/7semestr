@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="button">Button</string>
+    <string name="finish">finish</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clear">Clear</string>
+    <string name="search">Search</string>
+    <string name="app_label">app_label</string>
+    <string name="search_hint">search_hint</string>
+    <string name="get_all">Get all</string>
+    <string name="max_price">Max price</string>
+    <string name="search_by_name_and_max_price">Search by name and max price</string>
+    <string name="name">Name</string>
+    <string name="search_by_name_and_price">Search by name and price</string>
+    <string name="theme">Theme</string>
+    <string name="default_theme">Default</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="actions">Actions</string>
+    <string name="save">Save</string>
+    <string name="please_select_productid_to_delete">Please select productId to delete</string>
+    <string name="please_select_productid_to_update">Please select productId to update</string>
+    <string name="cancel">Cancel</string>
+    <string name="count">Count</string>
+    <string name="expiration_date">Expiration date</string>
+    <string name="price">Price</string>
+    <string name="universal_product_code">Universal Product Code</string>
+    <string name="producer">Producer</string>
+    <string name="please_select_product_id">Please select productId</string>
+    <string name="io">IO</string>
+    <string name="load">Load</string>
+    <string name="search_by_name">Search by name</string>
+</resources>
